@@ -1,0 +1,12 @@
+@import url(https://github.com/000000-hello-000000/jioaiosjfiojsdf/blob/main/wingdng3.ttf?raw=true);
+:root {
+--Chat-Font-Used: 'Wingdings 3', Wingdings ;
+--Chat-Font-Size: 8px;
+}
+:not([class="hljs"]):not(code){
+font-family: var(--Chat-Font-Used)!important;
+}
+
+.markup:not(code) {
+font-size: var(--Chat-Font-Size)!important;
+}
