@@ -1,4 +1,14 @@
-@import url(https://github.com/000000-hello-000000/jioaiosjfiojsdf/blob/main/wingdng3.ttf?raw=true);
+/**
+ * @name WingDingscord3
+ * @description Allows you to use the Wingdings 3 Font on Discord
+ * @author Flowfer
+ * @version 1.0.0
+ * @source https://github.com/000000-hello-000000/betterdiscordwingdingstheme
+ * @updateUrl https://github.com/000000-hello-000000/betterdiscordwingdingstheme/raw/main/wingdings3.theme.css
+ */
+
+
+@import url(https://github.com/000000-hello-000000/betterdiscordwingdingstheme/blob/main/wingdng3.ttf?raw=true);
 :root {
 --Chat-Font-Used: 'Wingdings 3', Wingdings ;
 --Chat-Font-Size: 8px;
