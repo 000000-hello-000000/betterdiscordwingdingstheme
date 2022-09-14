@@ -2,7 +2,7 @@
  * @name WingDingscord3
  * @description Allows you to use the Wingdings 3 Font on Discord
  * @author Flowfer
- * @version 1.0.1
+ * @version 1.0.0
  * @source https://github.com/000000-hello-000000/betterdiscordwingdingstheme
  * @updateUrl https://github.com/000000-hello-000000/betterdiscordwingdingstheme/raw/main/wingdings3.theme.css
  */
@@ -10,11 +10,12 @@
 /*
 @import url(https://github.com/000000-hello-000000/betterdiscordwingdingstheme/blob/main/wingdng3.ttf?raw=true);
 */
+
 :root {
---Chat-Font-Used: 'Wingdings 3', Wingdings ;
+--Chat-Font-Used: 'Wingdings 3', Wingdings3 ;
 }
 :not([class="hljs"]):not(code){
 font-family: var(--Chat-Font-Used)!important;
-font-size: 12px;
-letter-spacing: 0px;
+font-size: 15px;
+letter-spacing: 1px;
 }
