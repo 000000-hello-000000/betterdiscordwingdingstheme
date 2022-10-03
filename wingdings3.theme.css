@@ -12,10 +12,10 @@
 */
 
 :root {
---Chat-Font-Used: 'Wingdings 3', Wingdings3 ;
+--Chat-Font-Used: 'ttadgasd', ttadgasd ;
 }
 :not([class="hljs"]):not(code){
 font-family: var(--Chat-Font-Used)!important;
-font-size: 15px;
-letter-spacing: 1px;
+font-size: normal;
+letter-spacing: normal;
 }
